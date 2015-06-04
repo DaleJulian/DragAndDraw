@@ -1,0 +1,11 @@
+package com.example.draganddraw;
+
+import android.support.v4.app.Fragment;
+
+public class DragAndDrawFragment extends Fragment {
+
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup parent, Bundle savedInstanceState){
+		
+	}
+}

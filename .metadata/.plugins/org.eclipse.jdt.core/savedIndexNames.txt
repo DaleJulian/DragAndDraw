@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+/home/dale/Desktop/DragAndDraw/.metadata/.plugins/org.eclipse.jdt.core
+1012058604.index
+1270315800.index
+1507822892.index
